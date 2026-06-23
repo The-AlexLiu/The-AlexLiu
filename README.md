@@ -14,7 +14,7 @@
 
 | 项目 | 类型 | 展示能力 |
 |---|---|---|
-| [AI小红书内容管理系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) | AI 运营 / 内容增长 | 真实小红书账号沉淀的 AI 内容运营系统，跑通过 5,000+ 粉丝增长与商业化变现验证。 |
+| [AI小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) | AI 运营 | 真实小红书账号沉淀的 AI 内容系统，跑通过 5,000+ 粉丝增长与商业化变现验证。 |
 
 ## 联系方式
 
