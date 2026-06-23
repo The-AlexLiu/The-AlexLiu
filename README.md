@@ -10,11 +10,8 @@
 
 ## 作品集
 
-### [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)
-**AI 运营**｜真实账号验证的 AI 内容生产与变现系统
-
-### [内容结构评分系统](https://github.com/The-AlexLiu/creative-content-scoring-system)
-**内容评估**｜用 Hook / 证言 / 卖点 / CTA 量化素材质量
+### [Portfolio](https://github.com/The-AlexLiu/Portfolio)
+增长运营 / 内容策略 / AI 营销自动化 / 数据分析项目目录
 
 ## 联系方式
 
