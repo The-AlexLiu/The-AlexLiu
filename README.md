@@ -10,10 +10,11 @@
 
 ## 作品集
 
-| 项目 | 类型 | 说明 |
-|---|---|---|
-| [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) | AI 运营 | 真实账号验证的 AI 内容生产与变现系统 |
-| [内容结构评分系统](https://github.com/The-AlexLiu/creative-content-scoring-system) | 内容评估 | 用 Hook / 证言 / 卖点 / CTA 量化素材质量 |
+### [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System)
+**AI 运营**｜真实账号验证的 AI 内容生产与变现系统
+
+### [内容结构评分系统](https://github.com/The-AlexLiu/creative-content-scoring-system)
+**内容评估**｜用 Hook / 证言 / 卖点 / CTA 量化素材质量
 
 ## 联系方式
 
