@@ -1,19 +1,23 @@
 # Hi, I'm Alex 👋
 
-I'm a growth-oriented operator focused on **user growth, AI-assisted operations, content systems, marketing automation, and data-driven decision making**.
+我是一名增长运营，关注 **用户增长、AI 辅助运营、内容系统、营销自动化与数据驱动决策**。
 
-I like turning ambiguous business problems into structured experiments, repeatable workflows, and measurable outcomes.
+我擅长将模糊的业务问题拆解成清晰的增长实验、可复用的工作流和可衡量的业务结果。
 
-## Focus Areas
+## 方向
 
-- User growth and acquisition strategy
-- AI-assisted content and operation workflows
-- Marketing automation and productivity systems
-- Growth analytics and decision frameworks
-- Paid media as part of a broader growth system
-- Turning scattered execution into reusable playbooks
+- 用户增长与内容增长
+- AI 辅助运营与营销自动化
+- 增长数据分析与决策系统
 
-## Contact
+## 作品集
+
+| 项目 | 类型 | 展示能力 |
+|---|---|---|
+| [AI 小红书内容系统](https://github.com/The-AlexLiu/AI-XiaoHongShu-Operation-System) | AI 运营 / 内容增长 | 基于真实小红书账号沉淀的 AI 内容运营系统，跑通过 5,000+ 粉丝增长与商业化变现验证。 |
+
+## 联系方式
 
 - Email: liusihao05@gmail.com
-- GitHub: @The-AlexLiu
+- GitHub: [@The-AlexLiu](https://github.com/The-AlexLiu)
+- LinkedIn: [the-alexliu](https://www.linkedin.com/in/the-alexliu/)
