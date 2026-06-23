@@ -10,8 +10,8 @@
 
 ## 作品集
 
-### [Portfolio](https://github.com/The-AlexLiu/Portfolio)
-增长运营 / 内容策略 / AI 营销自动化 / 数据分析项目目录
+### [点击进入完整作品集目录 →](https://github.com/The-AlexLiu/Growth-Operations-Portfolio)
+这里集中整理我的增长运营、内容策略、AI 营销自动化和数据分析项目。
 
 ## 联系方式
 
