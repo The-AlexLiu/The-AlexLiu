@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**The-AlexLiu/The-AlexLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a growth-oriented operator focused on **user growth, AI-assisted operations, content systems, marketing automation, and data-driven decision making**.
 
-Here are some ideas to get you started:
+I like turning ambiguous business problems into structured experiments, repeatable workflows, and measurable outcomes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+
+- User growth and acquisition strategy
+- AI-assisted content and operation workflows
+- Marketing automation and productivity systems
+- Growth analytics and decision frameworks
+- Paid media as part of a broader growth system
+- Turning scattered execution into reusable playbooks
+
+## Contact
+
+- Email: liusihao05@gmail.com
+- GitHub: @The-AlexLiu
