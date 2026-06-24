@@ -12,8 +12,3 @@
 
 ### [点击进入完整作品集目录 →](https://github.com/The-AlexLiu/Growth-Operations-Portfolio)
 这里集中整理我的增长运营、内容策略和 AI 营销自动化项目。
-
-## 联系方式
-
-- LinkedIn: [the-alexliu](https://www.linkedin.com/in/the-alexliu/)
-- Email: liusihao05@gmail.com
