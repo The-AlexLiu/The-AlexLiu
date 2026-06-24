@@ -8,11 +8,6 @@
 
 ![曾服务的品牌](./assets/served-brands.png)
 
-## 方向
-
-- 用户增长与内容策略
-- AI 运营与营销自动化
-
 ## 作品集
 
 ### [点击进入完整作品集目录 →](https://github.com/The-AlexLiu/Growth-Operations-Portfolio)
